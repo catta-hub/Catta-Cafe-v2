@@ -1,0 +1,8 @@
+{
+    "display_name": "Catta Cafe Hub",
+    "name": "Catta-Cafe-Hub",
+    "version": "2.0.0",  
+    "author": "Catta Team",
+    "description": "System Hub V.3",
+    "js": ["index.js"]
+}
